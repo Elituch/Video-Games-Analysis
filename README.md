@@ -1,5 +1,5 @@
 # Video Games Analysis
-Analysis and visualization of an aggregated dataset for the gaming industry, <br />
+Analysis and visualization of an aggregated dataset of the gaming industry, <br />
 covering all games (1980-2020) by their sales and rating distribution. <br />
 The dataset contains the following fields: <br />
 •	Name of the game <br />
@@ -20,5 +20,5 @@ The dataset contains the following fields: <br />
 •	Rating - The ESRB ratings <br />
 The analysis was done using SQL and Power BI and was divided to 2 different reports. <br />
 The first step was the preparation of the data (ETL) using Power Query-fixing data types and cleaning missing or duplicate values. <br />
-Second step was creating some measures and calculated columns and finally making 2 reports. 
+The second step was creating some measures and calculated columns and finally making the reports. 
  
