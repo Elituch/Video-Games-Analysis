@@ -1,6 +1,7 @@
 # Video Games Analysis
-# Analysis and visualization of an aggregated dataset for the gaming industry, covering all games (1980-2020) by their sales and rating distribution.
-# The dataset contains the following fields:
+Analysis and visualization of an aggregated dataset for the gaming industry, <br />
+covering all games (1980-2020) by their sales and rating distribution. <br />
+The dataset contains the following fields: <br />
 •	Name of the game
 •	Platform
 •	Year of Release
